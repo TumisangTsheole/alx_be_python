@@ -1,12 +1,11 @@
-# simple_interest.py
+# rectangle_area.py
 
-# Define variables
-principal = 1000   # Initial investment
-rate = 0.05        # Annual interest rate (5%)
-time = 3           # Time in years
+# Define the dimensions of the rectangle
+length = 10
+width = 5
 
-# Calculate simple interest
-interest = principal * rate * time
+# Calculate the area
+area = length * width
 
 # Print the result
-print("The simple interest is:", interest)
+print("The area of the rectangle is:", area)
