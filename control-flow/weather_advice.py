@@ -11,5 +11,4 @@ elif weather == "rainy":
 elif weather == "cold":
     print("Make sure to wear a warm coat and a scarf.")
 else:
-    # This specific line is what your error checker is looking for:
     print("Sorry, I don't have recommendations for this weather.")
